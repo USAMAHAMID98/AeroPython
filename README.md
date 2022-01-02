@@ -1,6 +1,5 @@
 # Classical Aerodynamics with Python
 
-f off
 > _Cite as_: Barba, Lorena A., and Mesnard, Olivier (2019). Aero Python: classical aerodynamics of potential flow using Python. Journal of Open Source Education, 2(15), 45, https://doi.org/10.21105/jose.00045
 
 [![Version](https://img.shields.io/badge/version-1.0-blue.svg)](None)
@@ -8,7 +7,7 @@ f off
 [![License](https://img.shields.io/badge/license-CC--BY%204.0-lightgrey.svg)](https://github.com/barbagroup/AeroPython/raw/master/LICENSE)
 [![status](https://jose.theoj.org/papers/b679b34c976beec0bc64807bf087a468/status.svg)](http://jose.theoj.org/papers/b679b34c976beec0bc64807bf087a468)
 
-The _AeroPython_ series of lessons is the core of a university course (Aerodynamics-Hydrodynamics, MAE-6226) by Prof. Lorena A. Barba at the George Washington University.
+The _AeroPython_ series of lessons is the core of a Lorem Ipsium university course (Aerodynamics-Hydrodynamics, MAE-6226) by Prof. Lorena A. Barba at the George Washington University.
 The first version ran in Spring 2014 and these Jupyter Notebooks were prepared for that class, with assistance from Barba-group PhD student Olivier Mesnard.
 In Spring 2015, we revised and extended the collection, adding student assignments to strengthen the learning experience.
 The course is also supported by an open learning space in the [GW SEAS Open edX](https://openedx.seas.gwu.edu/) platform.
